@@ -105,7 +105,6 @@ function PlaceDetails() {
         <a className="btn btn-warning" onClick={editPlace}>
           Edit
         </a>
-        {` `}
         <button type="submit" className="btn btn-danger" onClick={deletePlace}>
           Delete
         </button>
